@@ -73,7 +73,7 @@ export default function App() {
           <div className="aspect-[4/5] md:aspect-square rounded-3xl overflow-hidden shadow-2xl relative">
             <div className="absolute inset-0 bg-gradient-to-tr from-[#D9381E]/20 to-transparent z-10 mix-blend-overlay"></div>
             <img
-              src={`${import.meta.env.BASE_URL}webventa.jpg`}
+              src={`${import.meta.env.BASE_URL}webventa2.jpg`}
               alt="Sergio Otero en el escenario"
               className="w-full h-full object-cover"
             />
